@@ -17,6 +17,6 @@
         "watch": "bun --watch build ./src/main.ts --outdir ./scripts --external cs_script/point_script"
     },
     "bun-create": {
-        "start": "bun run setup.ts"
+        "start": "bun run build"
     }
 }
