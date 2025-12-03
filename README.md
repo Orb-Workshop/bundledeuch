@@ -1,7 +1,7 @@
 # bundledeuch
 **bundledeuch**, is a drop-in Counter-Strike 2 TypeScript Bundling Template using Bun.
 
-## How to use with a newly created CS2 Workshop Project named '\<project-name\>'
+## How to use with a newly created CS2 Workshop Project
 
 ### Step 1 - Installing
 
