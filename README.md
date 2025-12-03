@@ -1,4 +1,5 @@
-# bundledeuch, A drop-in Counter-Strike 2 TypeScript Bundling Template using Bun. 
+# bundledeuch
+**bundledeuch**, is a drop-in Counter-Strike 2 TypeScript Bundling Template using Bun.
 
 ## How to Use
 
