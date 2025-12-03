@@ -23,10 +23,12 @@ bun run build
 
 During development, you can run a watch script to keep recompiling your bundled scripts.
 
-NOTE: Very buggy, i've included a `build.bat` batch script as an alternative.
-
 ```bash
 bun run watch
 ```
+
+NOTE: Very buggy, i've included a `build.bat` batch script as an alternative.
+
+### Start Hacking!
 
 The entire typescript/javascript ecosystem is now at your disposal! Edit the package.json file to add more dependencies.
