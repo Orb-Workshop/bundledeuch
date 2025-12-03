@@ -1,15 +1,31 @@
-# bundledeuch
+# bundledeuch, A drop-in Counter-Strike 2 TypeScript Bundling Template using Bun. 
 
-To install dependencies:
+## How to Use
 
+Step 1 - Install: [Bun](https://bun.com)
+
+Step 2 - Navigate to your content/csgo_addons folder and open a Terminal. I recommend [WezTerm](https://wezterm.org/)
+
+Step 3 - Create a New Project with Bundled Scripting, by creating the 'bundledeuch' bun template with the desired project name.
 ```bash
-bun install
+bun create github:Orb-Workshop/bundledeuch <project-name>
 ```
 
-To run:
+Step 4 - Navigate into your project folder and build
 
 ```bash
-bun run index.ts
+cd <project-name>
+bun run build
 ```
 
-This project was created using `bun init` in bun v1.3.3. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+## Start Developing
+
+During development, you can run a watch script to keep recompiling your bundled scripts.
+
+NOTE: Very buggy, i've included a `build.bat` batch script as an alternative.
+
+```bash
+bun run watch
+```
+
+The entire typescript/javascript ecosystem is now at your disposal! Edit the package.json file to add more dependencies.
