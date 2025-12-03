@@ -9,7 +9,7 @@ Step 2 - Navigate to your content/csgo_addons folder and open a Terminal. I reco
 
 Step 3 - Create a New Project with Bundled Scripting, by creating the 'bundledeuch' bun template with the desired project name.
 ```bash
-bun create github:Orb-Workshop/bundledeuch <project-name>
+bun create Orb-Workshop/bundledeuch <project-name>
 ```
 
 Step 4 - Navigate into your project folder and build

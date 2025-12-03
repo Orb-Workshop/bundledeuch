@@ -4,7 +4,7 @@
     "type": "module",
     "private": true,
     "dependencies": {
-	"scriptedeuch": "github:Orb-Workshop/scriptedeuch",
+	"scriptedeuch": "github:Orb-Workshop/scriptedeuch"
     },
     "devDependencies": {
 	"@types/bun": "latest"
@@ -14,9 +14,9 @@
     },
     "scripts": {
 	"build": "bun build ./src/main.ts --outdir ./scripts --external cs_script/point_script",
-	"watch": "bun --watch build ./src/main.ts --outdir ./scripts --external cs_script/point_script",
+	"watch": "bun --watch build ./src/main.ts --outdir ./scripts --external cs_script/point_script"
     },
     "bun-create": {
-	"start": "bun run setup.ts",
-    },
+	"start": "bun run setup.ts"
+    }
 }
