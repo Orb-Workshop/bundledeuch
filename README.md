@@ -1,7 +1,7 @@
 # bundledeuch
 **bundledeuch**, is a drop-in Counter-Strike 2 TypeScript Bundling Template using Bun.
 
-## How to use with a newly created CS2 Workshop Project named <project-name>
+## How to use with a newly created CS2 Workshop Project named '\<project-name\>'
 
 ### Step 1 - Installing
 
@@ -21,7 +21,7 @@ I recommend [WezTerm](https://wezterm.org/)
 
 While the Terminal Shell's Current Working Directoy is within the
 csgo_addons folder, apply the `Orb-Workshop/bundledeuch` bun template
-to the new CS2 Workshop project named <project-name>.
+to the new CS2 Workshop project named '\<project-name\>'.
 
 ```bash
 bun create Orb-Workshop/bundledeuch <project-name>
