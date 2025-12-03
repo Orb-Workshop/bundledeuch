@@ -38,7 +38,7 @@ bun create Orb-Workshop/bundledeuch <project-name>
 ### Step 4 - Using the Bundling Template: Building the Bundle
 
 Navigate into your project folder and build the `src/main.ts`
-entrypoint by running bun's `build` command.
+entrypoint by running the `build` script.
 
 ```bash
 cd <project-name>
@@ -74,7 +74,7 @@ Navigate to the project folder,
 
 The process remains the same as for a new project. `bun create`
 shouldn't overwrite existing files, but please note that it could
-interfere with existing build systems!
+interfere with existing bundlers/build systems!
 
 
 ## Start Developing!
