@@ -51,4 +51,3 @@ maps/*_bakeresourcecache.vpk
 *.vpk
 _radgen_extras/Overview/*.png
 materials/test.vmat
-\.*
