@@ -103,4 +103,6 @@ Edit the package.json file to bundle more dependencies!
 
 - [Bun](https://bun.com/)
 
-- [CS2 Scripting API](https://developer.valvesoftware.com/wiki/Counter-Strike_2_Workshop_Tools/Scripting_API)
+- [CS2 Scripting API](https://www.source2.wiki/Scripting/Counter-Strike%202/cs_script/functionList?game=any)
+
+- [scriptedeuch](https://github.com/Orb-Workshop/scriptedeuch)
