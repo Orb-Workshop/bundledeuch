@@ -82,7 +82,7 @@ interfere with existing bundlers/build systems!
 ### Scriptedeuch
 
 [scriptedeuch](https://github.com/Orb-Workshop/scriptedeuch) is
-included as a dependency as an optional CS2 library.
+included as a dependency. It is an optional CS2 library.
 
 ### Watch-mode
 
