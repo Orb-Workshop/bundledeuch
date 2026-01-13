@@ -4,7 +4,7 @@
   "type": "module",
   "private": true,
   "dependencies": {
-    "scriptedeuch": "github:Orb-Workshop/scriptedeuch#master"
+    "scriptedeuch": "github:Orb-Workshop/scriptedeuch#v0.1"
   },
   "devDependencies": {
     "@types/bun": "latest"

@@ -55,7 +55,7 @@ Navigate to the project folder,
 
 - typescript and javascript files placed in the project roots `./src`
   folder are part of the bundler's module system, which is the
-  standard javascript module system.
+  standard javascript ES6 module system.
 
   - https://bun.com/docs/bundler
 
@@ -79,6 +79,11 @@ interfere with existing bundlers/build systems!
 
 ## Start Developing!
 
+### Scriptedeuch
+
+[scriptedeuch](https://github.com/Orb-Workshop/scriptedeuch) is
+included as a dependency as an optional CS2 library.
+
 ### Watch-mode
 
 During development, you can run a watch script to keep recompiling
@@ -91,7 +96,6 @@ bun run watch
 
 or execute the `script_watch.bat` batch script.
 
-### NOTE: The watch functionality is experimental and may be buggy.
 
 ### Start Hacking!
 
